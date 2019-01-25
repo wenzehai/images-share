@@ -1,0 +1,14 @@
+{
+  "name": "images-share",
+  "version": "1.0.0",
+  "description": "a website for images share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "Andy Wen",
+  "license": "ISC"
+}
